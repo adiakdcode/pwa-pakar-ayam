@@ -1,0 +1,2 @@
+Aplikasi ini sudah dihosting ke firebase dengan alamat :
+>>> https://petek0.web.app/
